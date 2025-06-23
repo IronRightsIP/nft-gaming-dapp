@@ -1,3 +1,8 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
 {
   "name": "nft-dapp",
   "version": "1.0.0",
